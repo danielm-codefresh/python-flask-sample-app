@@ -6,7 +6,7 @@ Original source code from https://github.com/pallets/flask/tree/master/examples/
 
 ## Docker instructions
 
-To create a docker image execute: 
+To create a docker image execute:
 
 `docker build . -t flaskr`
 
@@ -27,3 +27,4 @@ and then in the new command promt run
 There is also a [codefresh.yml](codefresh.yml) for easy usage with the [Codefresh](codefresh.io) CI/CD platform.
 
 More details can be found in [Codefresh documentation](https://codefresh.io/docs/docs/getting-started/create-a-basic-pipeline/)
+testing!!!
