@@ -1,0 +1,1 @@
+{"appName":"default-git-source","userGivenName":"default-git-source","destNamespace":"test-runtime3","destServer":"https://kubernetes.default.svc","srcPath":"resources_test-runtime3","srcRepoURL":"https://github.com/danielm-codefresh/python-flask-sample-app_git-source.git","srcTargetRevision":"","labels":{"codefresh_io_entity":"git-source"},"exclude":"","include":""}
