@@ -1,1 +1,0 @@
-{"appName":"events-reporter","userGivenName":"events-reporter","destNamespace":"test-runtime3","destServer":"https://kubernetes.default.svc","srcPath":"apps/events-reporter/test-runtime3/resources","srcRepoURL":"https://github.com/danielm-codefresh/python-flask-sample-app.git","srcTargetRevision":"","labels":{"codefresh_io_entity":"component"},"exclude":"","include":""}
