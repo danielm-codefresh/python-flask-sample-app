@@ -1,0 +1,1 @@
+{"appName":"workflow-reporter","userGivenName":"workflow-reporter","destNamespace":"test-runtime1","destServer":"https://kubernetes.default.svc","srcPath":"apps/workflow-reporter/test-runtime1/resources","srcRepoURL":"https://github.com/danielm-codefresh/python-flask-sample-app.git","srcTargetRevision":"","labels":{"codefresh_io_entity":"component"},"exclude":"","include":""}
