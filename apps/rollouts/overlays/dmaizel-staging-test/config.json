@@ -1,1 +1,0 @@
-{"appName":"rollouts","userGivenName":"rollouts","destNamespace":"dmaizel-staging-test","destServer":"https://kubernetes.default.svc","srcPath":"apps/rollouts/overlays/dmaizel-staging-test","srcRepoURL":"https://github.com/danielm-codefresh/python-flask-sample-app.git","srcTargetRevision":"","labels":{"codefresh_io_entity":"component"}}
